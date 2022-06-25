@@ -1,6 +1,5 @@
 我在远端服务器进行修改了。
 我不知道marster有修改，然后在first里直接进行修改了
 
-add first
 
-add first1
+再次修改
